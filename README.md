@@ -1,4 +1,4 @@
-# Test Technique - Développeur Web
+# Test Technique - Assistant Développeur Web
 
 ## Objectif
 Votre mission est de créer un site web affichant "Hello World" en ligne en utilisant la stack de votre choix et de soumettre votre code sous forme de **pull request** sur ce dépôt GitHub.
